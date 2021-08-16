@@ -1,0 +1,5 @@
+example.property: "I AM CALENDAR SERVICE"
+#spring.data.mongodb.uri: mongodb://admin:admin@mongodb:27017/admin
+#spring.data.mongodb.database: calendar_service
+
+logging.level.org.hibernate.SQL: "debug"
